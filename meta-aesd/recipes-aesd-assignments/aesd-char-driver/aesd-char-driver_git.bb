@@ -8,7 +8,7 @@ SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-MarkoHammer
 
 # Versionsinformationen
 PV = "1.0+git${SRCPV}"
-SRCREV = "4615215fae18a3c4db348ba6eb052b4e7c0de284"
+SRCREV = "bef1b50df54a6e118e8152ef31f2387d78522567"
 
 S = "${WORKDIR}/git/aesd-char-driver"
 
