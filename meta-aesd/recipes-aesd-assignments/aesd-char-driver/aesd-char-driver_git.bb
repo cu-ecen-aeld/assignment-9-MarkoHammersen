@@ -3,7 +3,7 @@ LICENSE = "CLOSED"
 LIC_FILES_CHKSUM = ""
 
 # Git source
-SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-flopezb03;protocol=ssh;branch=main \
+SRC_URI = "git://git@github.com/cu-ecen-aeld/assignments-3-and-later-MarkoHammersen.git;protocol=ssh;branch=main \
            file://aesdchar-init"
 
 # Versionsinformationen
